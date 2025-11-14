@@ -1,0 +1,25 @@
+name: geo_310
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - geopandas
+  - rasterio
+  - gdal
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
+  - pylandstats
+  - scikit-learn
+  - shapely
+  - fiona
+  - pyproj
+  - cartopy
+  - jupyterlab
+  - spyder-kernels
+  - pip
+  - pip:
+      - pylandstats  # ensures latest version from PyPI if conda one is outdated
