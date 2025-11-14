@@ -7,6 +7,9 @@ Towards the characterization of human settlement structure dynamics using the Gl
 ## Authors
 Katarzyna Krasnodębska, Johannes H. Uhl, Alessandra Carioli, Przemysław Śleszyński, Martino Pesaresi
 
+## Concept
+![Settlement classification using GHSL data](https://github.com/katarzynagoch/ILUS2025/blob/main/concept.jpg)
+
 ## Abstract
 Spatial and temporal characterization of human settlements over large areas is essential for a wide range of applications. Settlement classification supports the monitoring of sustainable urban and rural development, while the analysis of settlement trends enables cause-and-effect assessments that link territorial management and spatial planning to the impacts of implemented policies and activities. This work therefore aims to leverage novel global, multitemporal data on built-up surfaces and population distributions within an integrated framework for detailed characterization of human settlements over time.
 Specifically, we use Earth-observation based gridded built-up surface and census-derived gridded population estimates from the Global Human Settlement Layer (GHSL) project of the European Commission’s Joint Research Centre. The GHSL data offer multivariate global data on the built environment and population, consistently enumerated at 100-meter spatial resolution, covering almost five decades. The multivariate nature of GHSL data facilitates the monitoring of large-scale changes in the distribution of population and built-up surface in a joint manner.
